@@ -82,5 +82,7 @@ while running:
     screen.blit(character, (character_x_pos, character_y_pos))
     pygame.display.update()        
 
-# 추가된 부분
+# 추가된 부분1
+# 추가된 부분2
+# 추가된 부분3
 pygame.quit()
